@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veereshbiradar&label=Profile%20views&color=0e75b6&style=flat" alt="veereshbiradar" /> </p>
 
-- 🌱 I’m upskilling on  **React.js and Node.js**
+- 🌱 I’m upskilling on  **React.js**
 
 - 💬 Ask me about **Angular, Javascript, React.js**
 
